@@ -8,4 +8,12 @@ public class Main {
     public static void azizasmet(){
         System.out.println("hii");
     }
+
+    public static void hello(){
+        System.out.println("Hey!");
+    }
+
+    public static void bye(){
+        System.out.println("bye!");
+    }
 }
